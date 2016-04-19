@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<buses rt="22">
+
+		<time>1:59 AM</time>
+
+
+		<bus>
+			<id>1879</id>    
+			<rt>22</rt>
+			<rtdd>22</rtdd>
+			
+			<d>South Bound</d>
+			<dd>Northbound</dd>
+			<dn>S</dn>
+			<lat>41.873939514160156</lat>
+			<lon>-87.63058471679688</lon>
+			<pid>7472</pid>
+			<pd>Northbound</pd>
+			<run>P257</run>
+			<fs>Howard</fs>
+			<op>29206</op>
+			<dip>128</dip>
+			<bid>240081213</bid>
+			<wid1>0P</wid1>
+			<wid2>257</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>4368</id>    
+			<rt>22</rt>
+			<rtdd>22</rtdd>
+			
+			<d>North West Bound</d>
+			<dd>Northbound</dd>
+			<dn>NNW</dn>
+			<lat>41.93141977410568</lat>
+			<lon>-87.64425257632607</lon>
+			<pid>7472</pid>
+			<pd>Northbound</pd>
+			<run>P263</run>
+			<fs>Howard</fs>
+			<op>34365</op>
+			<dip>24522</dip>
+			<bid>248081267</bid>
+			<wid1>0P</wid1>
+			<wid2>263</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1730</id>    
+			<rt>22</rt>
+			<rtdd>22</rtdd>
+			
+			<d>South East Bound</d>
+			<dd>Southbound</dd>
+			<dn>SSE</dn>
+			<lat>41.945449352264404</lat>
+			<lon>-87.65503633022308</lon>
+			<pid>3936</pid>
+			<pd>Southbound</pd>
+			<run>P258</run>
+			<fs>Harrison</fs>
+			<op>40952</op>
+			<dip>28926</dip>
+			<bid>240081284</bid>
+			<wid1>0P</wid1>
+			<wid2>258</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1895</id>    
+			<rt>22</rt>
+			<rtdd>22</rtdd>
+			
+			<d>North Bound</d>
+			<dd>Northbound</dd>
+			<dn>N</dn>
+			<lat>42.017970334566556</lat>
+			<lon>-87.6729736328125</lon>
+			<pid>7472</pid>
+			<pd>Northbound</pd>
+			<run>P260</run>
+			<fs>Howard</fs>
+			<op>31689</op>
+			<dip>58247</dip>
+			<bid>240081294</bid>
+			<wid1>0P</wid1>
+			<wid2>260</wid2>            	
+		</bus>
+
+
+
+		<bus>
+			<id>1394</id>    
+			<rt>22</rt>
+			<rtdd>22</rtdd>
+			
+			<d>North West Bound</d>
+			<dd>Northbound</dd>
+			<dn>NW</dn>
+			<lat>42.018855</lat>
+			<lon>-87.67314166666667</lon>
+			<pid>7472</pid>
+			<pd>Northbound</pd>
+			<run>P259</run>
+			<fs>Howard</fs>
+			<op>31400</op>
+			<dip>58411</dip>
+			<bid>240081259</bid>
+			<wid1>0P</wid1>
+			<wid2>259</wid2>            	
+		</bus>
+
+
+
+	</buses>
